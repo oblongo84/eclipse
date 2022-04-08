@@ -6,6 +6,8 @@ public class Principal {
 		System.out.println("Hola");
 		System.out.println("Hola");
 		System.out.println("Hola3");
+		System.out.println("Hola5");
+		System.out.println("Hola6");
 
 	}
 
